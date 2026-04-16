@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5801fb9c-ee42-4695-bc9e-489b65827350",
+  "id_short": 731976,
+  "published_at": "2026-04-16T19:12:34Z",
+  "repo_name": "the-hhi-monopoly-index-for-memphis-tennessee-us-sample-731976",
+  "sample_asset_name": "beamstation_731976_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/731976/beamstation_731976_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_records": 5,
+  "sample_sha256": "216c85098e78275411d0a1beb61eca95461b1edaba8d7ceaccb430caa8805a09",
+  "sample_size_bytes": 36184,
+  "total_records": 59
+}
