@@ -9,9 +9,9 @@
 | Dataset ID | `731976` |
 | Location | Memphis |
 | Category | Restaurants |
-| Full dataset size | 59 records |
-| Free sample size | 5 records (8.47%) |
-| Last export | 2026-04-07T19:22:17.244177+00:00 |
+| Full dataset size | 51 records |
+| Free sample size | 5 records (9.8%) |
+| Last export | 2026-04-15T00:27:50.353128+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-memphis-tennessee-us-sample-731976/releases/download/sample-latest/beamstation_731976_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
