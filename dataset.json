@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
   "config_name": "The HHI Monopoly Index for Memphis, Tennessee, US",
-  "export_job_id": "5801fb9c-ee42-4695-bc9e-489b65827350",
+  "export_job_id": "8b891137-c1f9-4ae5-8745-362082e0aa57",
   "github_org": "Beamstation-Datasets",
   "id_short": 731976,
   "location_name": "Memphis",
   "location_type": "city",
   "repo_name": "the-hhi-monopoly-index-for-memphis-tennessee-us-sample-731976",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/731976/beamstation_731976_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_pct": 8.47,
+  "sample_pct": 9.8,
   "sample_records": 5,
   "sample_sha256": "216c85098e78275411d0a1beb61eca95461b1edaba8d7ceaccb430caa8805a09",
   "sample_size_bytes": 36184,
-  "total_records": 59,
-  "updated_at": "2026-04-07T19:22:17.244177+00:00"
+  "total_records": 51,
+  "updated_at": "2026-04-15T00:27:50.353128+00:00"
 }
