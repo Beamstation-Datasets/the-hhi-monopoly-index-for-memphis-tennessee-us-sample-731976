@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Memphis, Tennessee, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `731976` |
 | Location | Memphis |
 | Category | Restaurants |
-| Full dataset size | 51 records |
-| Free sample size | 5 records (9.8%) |
-| Last export | 2026-04-15T00:27:50.353128+00:00 |
+| Full dataset size | 43 records |
+| Free sample size | 4 records (9.3%) |
+| Last export | 2026-04-22T04:32:21.926677+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-memphis-tennessee-us-sample-731976/releases/download/sample-latest/beamstation_731976_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
